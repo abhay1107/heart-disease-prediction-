@@ -1,1 +1,4 @@
-
+/heart-disease-prediction/
+├── heart.csv  ← dataset
+├── model.py   ← ML training
+└── app.py     ← web app with Streamlit (optional)
